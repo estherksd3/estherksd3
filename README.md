@@ -1,4 +1,7 @@
-##              <h1 align="center">🌷 𝑾𝑬𝑳𝑪𝑶𝑴𝑬 𝑻𝑶 𝑬𝑺𝑻𝑯𝑬𝑹𝑲𝑺𝑫 𝑮𝑰𝑻𝑯𝑼𝑩!>🌷  </h1>                                                        
+##  <h1 align="center">୨୧  🌷 ˚₊‧꒰ა ♡  WELCOME TO ESTHERKSD'S GITHUB  ♡ ໒꒱ ‧₊˚ 🌷  ୨୧</h1>       
+<p align="center">
+  🌷 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌷
+</p>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=estherksd3&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=estherksd3&include_all_commits=true&theme=rose)
 <div style="display: inline_block"><br>
