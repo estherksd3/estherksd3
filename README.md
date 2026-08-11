@@ -22,6 +22,16 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=estherksd3&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=estherksd3&include_all_commits=true&theme=rose)
 
+
+   <td align="center">
+  <img
+    src="./assets/cute-pink.gif"
+    width="230"
+    alt="Cute pixel art"
+  />
+</td>
+
+
 <p align="center">
   ♡₊˚ 🦢・₊✧ Obrigada por visitar meu cantinho! ✧₊・🦢 ˚₊♡
 
